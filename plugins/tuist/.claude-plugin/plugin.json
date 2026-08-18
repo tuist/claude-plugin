@@ -1,0 +1,11 @@
+{
+  "name": "tuist",
+  "description": "Tuist skills and MCP tools for Apple and Android projects",
+  "author": {
+    "name": "Tuist",
+    "url": "https://tuist.dev"
+  },
+  "homepage": "https://tuist.dev/en/docs/guides/features/agentic-coding/plugins",
+  "repository": "https://github.com/tuist/claude-plugin",
+  "license": "MIT"
+}
